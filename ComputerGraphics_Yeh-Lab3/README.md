@@ -22,7 +22,3 @@ Backculling
 ![示範jpg](./image/8.jpg)
 影片
 ![示範gif](./image/9.gif)
-
-
-#### 補充
-有使用chatgpt協助完成作業，把我打好的程式碼丟給chatgpt請他幫我修改及優化
