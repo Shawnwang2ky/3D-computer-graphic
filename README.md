@@ -34,5 +34,29 @@ NCU_Course_HW
 影片示範
 ![示範gif](./ComputerGraphics_Yeh-Lab2/image/video.gif)
 
+# Lab 3
+
+## 描述
+這是一個3D小畫家，支援旋轉、平移、縮放，以及移動相機位置。
+
+### 功能說明
+Rotation Matrix (Y-axis)
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/1.jpg)
+Matrix4::makeRotX(float a)
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/2.jpg)
+Model Transformation (Model Matrix)
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/3.jpg)
+Camera Transformation (View Matrix)
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/4.jpg)
+Perspective Rendering
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/5.jpg)
+Depth Buffer
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/6.jpg)
+Camera Control
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/7.jpg)
+Backculling
+![示範jpg](./ComputerGraphics_Yeh-Lab3/image/8.jpg)
+影片
+![示範gif](./ComputerGraphics_Yeh-Lab3/image/9.gif)
 
 
