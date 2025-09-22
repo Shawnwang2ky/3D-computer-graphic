@@ -18,6 +18,3 @@
 ![示範jpg](./image/heart.jpg)
 擦除(滾動滑鼠即可改變擦除範圍)
 ![示範jpg](./image/ohno.jpg)
-
-#### 補充
-有使用chatgpt協助完成作業，把我打好的程式碼丟給chatgpt請他幫我修改及優化
