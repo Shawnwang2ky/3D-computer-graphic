@@ -7,19 +7,19 @@ NCU_Course_HW
 
 ### 功能說明
 畫直線
-![示範jpg](./image/line.jpg)
+![示範jpg](./ComputerGraphics_Yeh-Lab1/image/line.jpg)
 畫多邊形
-![示範jpg](./image/poly.jpg)
+![示範jpg](./ComputerGraphics_Yeh-Lab1/image/poly.jpg)
 畫圓
-![示範jpg](./image/circle.jpg)
+![示範jpg](./ComputerGraphics_Yeh-Lab1/image/circle.jpg)
 畫橢圓Markdown
-![示範jpg](./image/circle1.jpg)
+![示範jpg](./ComputerGraphics_Yeh-Lab1/image/circle1.jpg)
 畫曲線
-![示範jpg](./image/curve.jpg)
+![示範jpg](./ComputerGraphics_Yeh-Lab1/image/curve.jpg)
 鉛筆
-![示範jpg](./image/heart.jpg)
+![示範jpg](./ComputerGraphics_Yeh-Lab1/image/heart.jpg)
 擦除(滾動滑鼠即可改變擦除範圍)
-![示範jpg](./image/ohno.jpg)
+![示範jpg](./ComputerGraphics_Yeh-Lab1/image/ohno.jpg)
 
 
 
