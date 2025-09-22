@@ -28,11 +28,11 @@ NCU_Course_HW
 
 ### 功能說明
 畫長方形
-![示範jpg](./ComputerGraphics_Yeh-Lab1/image/rec.PNG)
+![示範jpg](./ComputerGraphics_Yeh-Lab2/image/rec.PNG)
 畫星星
-![示範jpg](./ComputerGraphics_Yeh-Lab1/image/star.PNG)
+![示範jpg](./ComputerGraphics_Yeh-Lab2/image/star.PNG)
 影片示範
-![示範gif](./ComputerGraphics_Yeh-Lab1/image/video.gif)
+![示範gif](./ComputerGraphics_Yeh-Lab2/image/video.gif)
 
 
 
